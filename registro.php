@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <body>
-    <form action="post">
+    <form action="consulta1.php" method="post">
         <label for="nombre">Nombre</label>
         <input type="text" name="nombre">
         <label for="apellido">Apellido</label>
